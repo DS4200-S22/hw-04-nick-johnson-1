@@ -31,7 +31,7 @@ h1{
 
   margin: 10px;
   margin-bottom:70px;
-    margin-top: auto;
+  margin-top: auto;
 }
 
 .circle2:hover {
@@ -54,7 +54,7 @@ button {
 
 .container1{
 display: flex;
-justify-content: center}
+justify-content: center;}
 
 .buttonstyle {
     
