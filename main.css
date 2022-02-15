@@ -14,14 +14,11 @@ h1{
     text-align: center
 }
 .circle {
-    stroke: black;
-    stroke-width:  4;
-    background-color:  #99fadc;
-    width: 300px;
-    height: 300px;
-    margin: 10px;
+  height: 110px;
+  width: 110px;
+  background-color: palegreen;
+  border-radius: 50%;
 }
-
 button {
     margin: 10px;
 }
