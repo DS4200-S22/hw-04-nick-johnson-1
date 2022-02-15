@@ -13,10 +13,22 @@ h1{
     font-size: 45px;
     text-align: center
 }
-.circle {
+.circle1 {
+  height: 110px;
+  width: 110px;
+  background-color: paleturquoise;
+  border-radius: 50%;
+}
+.circle2 {
   height: 110px;
   width: 110px;
   background-color: palegreen;
+  border-radius: 50%;
+}
+.circle3 {
+  height: 110px;
+  width: 110px;
+  background-color: mediumpurple;
   border-radius: 50%;
 }
 button {
