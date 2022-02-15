@@ -10,34 +10,24 @@
 <h1> Event Handiling</h1>
 
 <body>
-    <div class="container1">
-        
-        
-<div class= "circle1"> </div>
-<div class= "circle2"> </div>
-<div class= "circle3"> </div>
-
+     <div class="container1">  
+    <button class="buttonstyle" type="button" onclick="circle1Clicked()">
+        <svg class="circle1">
+            <text x="50%" y="50%" id="clicks">0</text>
+        </svg>
+    </button>  
+      
+    <svg class="circle2">
+        <circle/>
+    </svg>
     
-    
-    
-    </div>
-    
-    <div>
-    <!-- button -->
-    <!-- Notice the onclick function -->
-    <button type="button" onclick="buttonClicked()">Click Me!</button>
-
-    <!-- div that we will modify with js -->
-    <div id="button-div" class="gen">
-        
-        
-    </div>
+    <button class="buttonstyle" type="button" id="button3" onclick="circle3Clicked()">
+        <svg class="circle3">
+            <circle/>
+        </svg>
+      </button>
+      
 </div>
-        
-<!-- js file for functionality -->
-<script src="main.js"></script>
-    
-    
     
     
 </body>

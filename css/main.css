@@ -18,23 +18,44 @@ h1{
   width: 110px;
   background-color: paleturquoise;
   border-radius: 50%;
+  border: 5px solid black; 
+  margin: 50px;
 }
 .circle2 {
   height: 110px;
   width: 110px;
   background-color: palegreen;
   border-radius: 50%;
+
+  margin: 50px;
 }
+
+.circle2:hover {
+    
+    border: 5px solid black; 
+
+}
+
 .circle3 {
   height: 110px;
   width: 110px;
   background-color: mediumpurple;
   border-radius: 50%;
+  border: 5px solid black; 
+  margin: 50px;
 }
 button {
     margin: 10px;
 }
 .container1{
 display: flex;
-
 justify-content: center}
+
+
+
+.buttonstyle {
+    
+    background: transparent; 
+    border:  2px solid white;
+}
+    
