@@ -22,6 +22,8 @@ h1{
   border-radius: 50%;
   border: 5px solid black; 
   margin: 50px;
+  margin-top: auto;
+  
 }
 .circle2 {
   height: 110px;
@@ -29,14 +31,13 @@ h1{
   background-color: palegreen;
   border-radius: 50%;
 
-  margin: 50px;
-  margin-bottom:40px;
+  margin: 10px;
+  margin-bottom:70px;
+    margin-top: auto;
 }
 
 .circle2:hover {
-    
     border: 5px solid black; 
-
 }
 
 .circle3 {
@@ -46,16 +47,17 @@ h1{
   border-radius: 50%;
   border: 5px solid black; 
   margin: 50px;
+  margin-top: auto;
 }
+
 button {
     margin: 10px;
 }
+
 .container1{
 display: flex;
 justify-content: center;
 }
-
-
 
 .buttonstyle {
     
