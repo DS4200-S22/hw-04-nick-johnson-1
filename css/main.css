@@ -12,6 +12,8 @@ p{
 h1{
     font-size: 45px;
     text-align: center
+    font-family: Arial;
+
 }
 .circle1 {
   height: 110px;
@@ -50,7 +52,8 @@ button {
 }
 .container1{
 display: flex;
-justify-content: center}
+justify-content: center;
+}
 
 
 

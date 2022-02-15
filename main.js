@@ -1,8 +1,8 @@
-let clicks = 0;
+let buttonclicks = 0;
 
 function circle1Clicked() {
     clicks += 1;
-    document.getElementById("clicks").innerHTML = clicks;
+    document.getElementById("buttonclicks").innerHTML = buttonclicks;
 };
 let visible = true;
 
