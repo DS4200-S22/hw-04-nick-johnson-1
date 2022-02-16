@@ -34,7 +34,6 @@ h1{
 .circle2:hover {
     
     border: 5px solid black; 
-
 }
 
 .circle3 {
@@ -45,17 +44,15 @@ h1{
   border: 5px solid black; 
   margin: 50px;
 }
+
 button {
     margin: 10px;
 }
+
 .container1{
 display: flex;
 justify-content: center;
 }
-
-
-
-
 
 .buttonstyle {
     
